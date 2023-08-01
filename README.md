@@ -5,7 +5,7 @@
 - 💻 My programming languages : `.cs`, `.py`
 - ⚔️ Technogies and tools : `.net`, `git`, `MySql`, `postgre sql`, `sql server`, `sqlite`
 - 📫 Connect with me: [telegram](https://t.me/jumakulov_ozodbek), 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I'm a huge fan of Chess
 -->
 
 <!--
