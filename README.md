@@ -6,7 +6,7 @@
 - ⚔️ Technogies and tools : `.net`, `git`, `MySql`, `postgre sql`, `sql server`, `sqlite`
 - 📫 Connect with me: [telegram](https://t.me/jumakulov_ozodbek), 
 - ⚡ Fun fact: ... I'm a huge fan of Chess
--->
+
 
 <!--
 **Elbekovich/Elbekovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
