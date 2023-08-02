@@ -1,4 +1,4 @@
-### Hi there, I am Elbekovich 👋
+### Hi there, I am Ozodbek 👋
 ##### BIO
 
 - ⚙️ My specialty : `.net`, `asp.net`, `wpf`, `postgresql`
