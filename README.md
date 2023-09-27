@@ -14,7 +14,7 @@
 - 💻 My programming languages : `.cs`, `.py`, `.c`,
 - ⚔️ Technogies and tools : `.net`, `git`, `MySql`, `postgre sql`, `sqlite`
 - 📫 Connect with me: [telegram](https://t.me/jumakulov_ozodbek),
-- - 🌱 Learning all about **Open Source**
+- 🌱 Learning all about **Open Source**
 
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=Elbekovich&show_icons=true&theme=dark)
