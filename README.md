@@ -13,7 +13,7 @@
 - ⚙️ My specialty : `.net`, `asp.net`, `wpf`, `postgresql`
 - 💻 My programming languages : `.cs`, `.py`, `.c`,
 - ⚔️ Technogies and tools : `.net`, `git`, `MySql`, `postgre sql`, `sqlite`
-- 📫 Connect with me: [telegram](https://t.me/jumakulov_ozodbek),
+- 📫 Connect with me: [telegram](https://t.me/jumakulov_ozodbek),[Linkedin](https://www.linkedin.com/in/ozodbek-jumaqulov/),
 - 🌱 Learning all about **Open Source**
 
 
