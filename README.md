@@ -4,17 +4,18 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-# 👋 Hi ! I am Ozodbek 
+# 👋 Hi ! I am Ozodbek Jumakulov 
 
 ### I'm a .NET developer.
 
 #### BIO
 
 - ⚙️ My specialty : `.net`, `asp.net`, `wpf`, `postgresql`
-- 💻 My programming languages : `.cs`, `.py`, `.c`,
+- 💻 My programming languages : `.cs`,`.c`,
 - ⚔️ Technogies and tools : `.net`, `git`, `MySql`, `postgre sql`, `sqlite`
-- 📫 Connect with me: [telegram](https://t.me/jumakulov_ozodbek),[Linkedin](https://www.linkedin.com/in/ozodbek-jumaqulov/),
-- 🌱 Learning all about **Open Source**
+- 📫 Connect with me: [telegram](https://t.me/jumakulov_ozodbek),[Linkedin](https://www.linkedin.com/in/ozodbek-jumaqulov/),[Instagram](https://www.instagram.com/jumakulov_o/)
+- 🌱 Learning all about **Open Source and Najot Talim** 
+- ⚡ Fun fact: ... I am very interested in mathematics
 
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=Elbekovich&show_icons=true&theme=dark)
